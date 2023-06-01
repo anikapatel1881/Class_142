@@ -1,0 +1,19 @@
+.instruction_img{
+    width: 45%;
+    display: inline-block;
+}
+
+.modal-dialog{
+    width: 90%;
+}
+
+.big_image{
+    width: 95%;
+}
+
+video{
+    background: url("game_console.png");
+    background-size: cover;
+    background-position: center;
+    padding: 25px;
+}
